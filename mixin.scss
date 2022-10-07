@@ -1,0 +1,8 @@
+@mixin fonts($w, $s) {
+  font-weight: $w;
+  font-size: $s;
+}
+@mixin widthe($w, $h) {
+  width: $w;
+  height: $h;
+}
